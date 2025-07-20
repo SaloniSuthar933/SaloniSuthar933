@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Saloni Suthar 👋
 
-<!--
-**SaloniSuthar933/SaloniSuthar933** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech IT Student at SKIT Jaipur  
+💻 MERN Stack Developer | DSA Enthusiast  
+🚀 Passionate about Open Source & Tech Communities  
+📚 Currently learning: System Design, LeetCode, and contributing to open source  
+🌐 Participated in Juspay Hiring Challenge & GSSoC 2025 Aspirant  
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack:
+- 💻 Languages: C, C++, Java, JavaScript  
+- 🌐 Frontend: HTML, CSS, React.js  
+- ⚙ Backend: Node.js, Express.js  
+- 🗃 Database: MongoDB  
+- 🧰 Tools: Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats:
+![Saloni's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaloniSuthar933&show_icons=true&theme=radical)
+
+## 🔗 Connect with Me:
+- [LinkedIn](https://www.linkedin.com/in/saloni-suthar-0718a231a/)
+- [Email](mailto:salonisuthar463@gmail.com)
+
+---
+✨ “Small steps every day lead to big changes.” ✨
